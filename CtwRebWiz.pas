@@ -21,7 +21,7 @@ uses
 
 function TCanRebWiz.MenuText: String;
 begin
-  Result := '&Rebuild Wizard...'
+  Result := '&Rebuild Wizard (Cantools)...'
 end;
 
 procedure TCanRebWiz.Execute (Sender: TObject);
